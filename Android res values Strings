@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_title_list">Subscribe list</string>
+    <string name="menu_title_live">Recommended Live</string>
+    <string name="menu_title_search">Search</string>
+    <string name="menu_title_settings">Settings</string>
+    <string name="menu_title_recommended">Recommended Users</string>
+    <string name="menu_title_postcomment">Post Comment</string>
+    <string name="menu_title_open_in_browser">Open in Browser</string>
+    <string name="hello">Hello World, TCViewerApp!</string>
+    <string name="app_name">TwitCasting Viewer</string>
+<string name="title_main">TwitCasting Viewer</string>
+<string name="search_label">Search User</string>
+<string name="search_hint">Search User</string>
+<string name="search_menu_title">Search User</string>
+<string name="message_activity_title">Loading...</string>
+<string name="message_activity_percent">Loading... %1$d/100</string>
+<string name="message_activity_search_itle">Searching...</string>
+<string name="message_activity_preparing">Connecting to stream...</string>
+<string name="message_buffering">Buffering</string>
+<string name="message_login_success">Logged in</string>
+<string name="bug_report">Report Problem</string>
+<string name="bug_report_message">This application was shut down unexpectedly when you last used. Please help us fix this problem by sending the error report.</string>
+<string name="bug_report_positive_button">Send</string>
+<string name="bug_report_negative_button">Cancel</string>
+<string name="local_service_started">TwitCasting Started</string>
+<string name="local_service_stopped">TwitCasting Stopped</string>
+<string name="local_service_label">TwitCasting Alert</string>
+<string name="dialog_alert_yes">Yes</string>
+<string name="dialog_alert_no">No</string>
+<string name="message_reconnect_server">Connection Closed. Reconnecting... (Change Low Latency Mode if this error repeats).</string>
+<string name="message_user_subscribed">Subscribed.</string>
+<string name="preference_notify_time_desc">Turn on/off the sound notification.</string>
+<string name="preference_use_notification">Use Service Notification</string>
+<string name="preference_message_turnoff_notification_title">Turn off Notification</string>
+<string name="preference_message_turnoff_notification">Are you sure want to turn off the notification and get no alert for your subscribers?</string>
+<string name="preference_post_twitter">Post to Twitter</string>
+<string name="preference_post_twitter_on">Post to Twitter by default</string>
+
+<string name="preference_post_facebook">Post to Facebook</string>
+<string name="preference_post_facebook_on">Post to Facebook by default</string>
+
+<string name="preference_post_twitter_off">No Post to Twitter by default</string>
+<string name="preference_feedback">Feedback / Support</string>
+<string name="preference_feedback_desc">Send your feedback</string>
+<string name="message_could_not_subscribe_description">Could not subscribe the user. Please check your internet connection and try again.</string>
+<string name="message_could_not_unsubscribe_description">Could not unsubscribe user. Please check your internet connection and try again.</string>
+<string name="message_could_not_clear_description">Could not clear your subscription list. Please check your internet connection and try again.</string>
+<string name="message_posting">Posting...</string>
+<string name="message_please_wait">Please wait...</string>
+<string name="message_searching_user">Searching user..</string>
+<string name="preference_feedback_email">info@twitcasting.tv</string>
+<string name="preference_feedback_subject">[Support]</string>
+<string name="preference_category_timeline">Timeline</string>
+<string name="preference_category_playback">Playback Mode</string>
+<string name="preference_low_latency_3g">3G: Quick Playback</string>
+<string name="preference_low_latency_wifi">WiFi: Quick Playback</string>
+<string name="preference_low_latency_on">[Low Latency Mode] Turn off if network is too slow.</string>
+<string name="preference_low_latency_off">[Low Bandwidth Mode] Turn on if sound is choppy.</string>
+<string name="preference_notifycation_default_desc">Keep service running to receive notifications. Available for all Androids.</string>
+
+<string name="preference_auto_subscribe">Auto Subscribe</string>
+<string name="preference_auto_subscribe_desc">Subscribe user when you watch live longer than 3 min.</string>
+<string name="preference_save_energy">Save Battery</string>
+<string name="preference_save_energy_desc">Dim screen is enabled to save battery while watching live.</string>
+
+<string name="close">Close</string>
+<string name="purchase_point_finished">Finished Charge Points</string>
+<string name="menu_title_reloadcomment">Update Comments</string>
+
+<string name="preference_c2dm">Use Push Notification(GCM)</string>
+<string name="preference_c2dm_desc">Using GCM may save battery and packets.</string>
+
+<string name="message_c2dm_register_fail">Failed to setup Push Notification. Please check if you have valid Google Account and try again later.</string>
+<string name="message_c2dm_register">Successfully register to Push Notification</string>
+<string name="message_c2dm_unregister">Unregistered from Push Notification</string>
+<string name="message_c2dm_unregister_fail">Failed to unregister Push Notification. Please check your internet connection and try again later.</string>
+<string name="could_not_login_with_error_android">Could not login - check if your device is keeping time and try again. Be sure to send the error code when you contact us.</string>
+<string name="sync_my_backs_desc">Include your backs to the sync list.</string>
+
+<string name="comment_post_to_twitter">Post to Twitter</string>
+<string name="comment_post_to_facebook">Post to Facebook</string>
+
+
+<string name="sync_server_q_initial">Sync with Server?</string>
+<string name="sync_server_desc_initial">Please sync with server to keep the consistency if you have re-installed or updated this App. No data will be lost by this operation.</string>
+
+<string name="account_login_desc">Login with Twitter or Facebook</string>
+
+<string name="visit_twitcasting_title">App</string>
+<string name="visit_twitcasting_live">Go TwitCasting Live</string>
+<string name="shake_live_mesg">Shaking...</string>
+<string name="shake_switch">Shake</string>
+<string name="report_flag">Report as inappropriate</string>
+
+<string name="error_memory">Out of memory. Please close other applications.</string>
+
+<string name="enquete_title">Poll</string>
+<string name="dialog_alert_close">Close</string>
+
+
+<string name="menu_title_texttospeech">Text to Speech</string>
+<string name="menu_title_texttospeech_desc">Voice over comments using installed tts (Text to Speech) engine.</string>
+<string name="menu_title_texttospeech_error">Failed to set Text to Speech engine. Please set up your tts from the Android Setting (Setting - Voice input output - Text-to-speech settings).</string>
+<string name="texttospeech_separator">, </string>
+<string name="texttospeech_separator_simple">. </string>
+
+<string name="videoview_android_bug_title">Device Specific Error</string>
+<string name="videoview_android_bug_desc">Please close the browser application running in background, or turn on the low latency mode.</string>
+
+
+</resources>
