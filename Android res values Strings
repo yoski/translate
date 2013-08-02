@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="menu_title_list">Subscribe lists</string>
+    <string name="menu_title_list">Subscribe Lists</string>
     <string name="menu_title_live">Recommended Live</string>
     <string name="menu_title_search">Search</string>
     <string name="menu_title_settings">Settings</string>
